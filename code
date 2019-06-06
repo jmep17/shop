@@ -4,7 +4,9 @@
 
 day = 'sat'
 hour = 8
+
 # Output: a string, either 'open' or 'closed'
+
 if day == 'week':
     if 9 <= hour < 17:
         print ('open1')
